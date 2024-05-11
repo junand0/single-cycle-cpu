@@ -1,0 +1,2 @@
+tests/cpu_tb.v:172: error: Unable to bind wire/reg/memory `cpu_tb' in `tb_cpu'
+1 error(s) during elaboration.
